@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ScriptkidHicks
+- 👋 Hi, I’m Lillith @ScriptkidHicks
 - I'm a software developer who plays tabletop games. I work in Scala / C++ (mostly scala) for work, but on my free time I love working in React + Express.js
 - I like to build tools that people can use to play tabletop games and tell stories with.
 - My current major project is Witch Turn (you can find it in the WitchTurnOnline repository). It's for tracking initiative. There should be a link in the readme the functioning version of the website.
